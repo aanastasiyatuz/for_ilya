@@ -1,0 +1,462 @@
+[
+	{
+		"prof": {
+			"id": 1,
+			"name": "Math Teacher"
+		}
+	},
+	{
+		"prof": {
+			"id": 2,
+			"name": "VCHK Teacher"
+		}
+	},
+	{
+		"prof": {
+			"id": 3,
+			"name": "ALGORITMTH Teacher"
+		}
+	},
+	{
+		"prof": {
+			"id": 4,
+			"name": "DEUTSCH Teacher"
+		}
+	},
+	{
+		"prof": {
+			"id": 5,
+			"name": "ENGLISH Teacher"
+		}
+	},
+	{
+		"prof": {
+			"id": 6,
+			"name": "Python Teacher"
+		}
+	},
+	{
+		"course": {
+			"id": 1,
+			"name": "Math"
+		}
+	},
+	{
+		"course": {
+			"id": 2,
+			"name": "VCHK"
+		}
+	},
+	{
+		"course": {
+			"id": 3,
+			"name": "ALGO"
+		}
+	},
+	{
+		"course": {
+			"id": 4,
+			"name": "DEUTSCH"
+		}
+	},
+	{
+		"course": {
+			"id": 5,
+			"name": "ENGLISH"
+		}
+	},
+	{
+		"course": {
+			"id": 6,
+			"name": "Python"
+		}
+	},
+	{
+		"room": {
+			"name": "-----",
+			"size": 40
+		}
+	},
+	{
+		"room": {
+			"name": "-----",
+			"size": 40
+		}
+	},
+	{
+		"room": {
+			"name": "-----",
+			"size": 40
+		}
+	},
+	{
+		"group": {
+			"id": 1,
+			"name": "AIN-1-21",
+			"size": 30
+		}
+	},
+	{
+		"group": {
+			"id": 2,
+			"name": "AIN-2-21",
+			"size": 29
+		}
+	},
+	{
+		"group": {
+			"id": 3,
+			"name": "AIN-3-21",
+			"size": 31
+		}
+	},
+	
+	
+
+
+
+	{
+		"class": {
+			"professor": 1,
+			"course": 1,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 1,
+			"course": 1,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 1,
+			"course": 1,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	
+	{
+		"class": {
+			"professor": 1,
+			"course": 1,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 1,
+			"course": 1,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 1,
+			"course": 1,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	{
+		"class": {
+			"professor": 2,
+			"course": 2,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 2,
+			"course": 2,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 2,
+			"course": 2,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	
+	{
+		"class": {
+			"professor": 2,
+			"course": 2,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 2,
+			"course": 2,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 2,
+			"course": 2,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	{
+		"class": {
+			"professor": 3,
+			"course": 3,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 3,
+			"course": 3,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 3,
+			"course": 3,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	
+	{
+		"class": {
+			"professor": 3,
+			"course": 3,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 3,
+			"course": 3,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 3,
+			"course": 3,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 4,
+			"course": 4,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 5,
+			"course": 5,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	{
+		"class": {
+			"professor": 6,
+			"course": 6,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 6,
+			"course": 6,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 6,
+			"course": 6,
+			"duration": 1,
+			"groups": 3
+		}
+	},
+	
+	{
+		"class": {
+			"professor": 6,
+			"course": 6,
+			"duration": 1,
+			"groups": 1
+		}
+	},
+	{
+		"class": {
+			"professor": 6,
+			"course": 6,
+			"duration": 1,
+			"groups": 2
+		}
+	},
+	{
+		"class": {
+			"professor": 6,
+			"course": 6,
+			"duration": 1,
+			"groups": 3
+		}
+	}
+
+
+
+]
